@@ -1,0 +1,7 @@
+.cache
+.DS_Store
+*.tsbuildinfo
+dist
+node_modules
+Thumbs.db
+env.yaml
